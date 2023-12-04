@@ -76,6 +76,7 @@
 - [git commit convention](https://hehesim.tistory.com/32)
 
 ## 코딩테스트/알고리즘
+- [알고리즘 기초](https://hehesim.tistory.com/95)
 - [정렬 알고리즘](https://hehesim.tistory.com/10)
 - [올바른 괄호](https://hehesim.tistory.com/16)
 - [같은 숫자는 싫어](https://hehesim.tistory.com/12)
