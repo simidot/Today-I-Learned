@@ -80,6 +80,7 @@
 - [알고리즘 기초](https://hehesim.tistory.com/95)
 - [정렬(카운팅/선택/버블/이진탐색)](https://hehesim.tistory.com/98)
 - [정렬 알고리즘(선택/삽입/버블)](https://hehesim.tistory.com/10)
+- [스택](https://hehesim.tistory.com/99)
 - [올바른 괄호](https://hehesim.tistory.com/16)
 - [같은 숫자는 싫어](https://hehesim.tistory.com/12)
 - [소수 찾기](https://hehesim.tistory.com/9)
