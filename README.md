@@ -12,6 +12,7 @@
 - [Generics/Optional/Collections](https://hehesim.tistory.com/90)
 - [Stream API](https://hehesim.tistory.com/92)
 - [파일 입출력](https://hehesim.tistory.com/93)
+- [String/StringBuffer/StringBuilder](https://hehesim.tistory.com/96)
 - [이미지 업로드](https://hehesim.tistory.com/31)
 - [JDBC, DBCP](https://hehesim.tistory.com/27)
 - [MVC](https://hehesim.tistory.com/22)
@@ -77,7 +78,7 @@
 
 ## 코딩테스트/알고리즘
 - [알고리즘 기초](https://hehesim.tistory.com/95)
-- [정렬(카운팅/선택/버블/이진탐색](https://hehesim.tistory.com/98)
+- [정렬(카운팅/선택/버블/이진탐색)](https://hehesim.tistory.com/98)
 - [정렬 알고리즘(선택/삽입/버블)](https://hehesim.tistory.com/10)
 - [올바른 괄호](https://hehesim.tistory.com/16)
 - [같은 숫자는 싫어](https://hehesim.tistory.com/12)
