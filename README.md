@@ -67,6 +67,11 @@
 ## 자바스크립트 javascript
 - [런타임/비동기처리](https://hehesim.tistory.com/49)
 - [url에서 파라미터 추출](https://hehesim.tistory.com/39)
+- [자바스크립트 객체/Date 객체](https://hehesim.tistory.com/102)
+- [jQuery 기](https://hehesim.tistory.com/101)
+
+## HTML/CSS
+- [Frontend 개요](https://hehesim.tistory.com/106)
 
 ## 마크다운
 - [마크다운](https://hehesim.tistory.com/76)
@@ -80,7 +85,8 @@
 - [알고리즘 기초](https://hehesim.tistory.com/95)
 - [정렬(카운팅/선택/버블/이진탐색)](https://hehesim.tistory.com/98)
 - [정렬 알고리즘(선택/삽입/버블)](https://hehesim.tistory.com/10)
-- [스택](https://hehesim.tistory.com/99)
+- [스택/괄호검사/DFS/후위표기](https://hehesim.tistory.com/99)
+- [큐/LinkedLsit/BFS](https://hehesim.tistory.com/100)
 - [올바른 괄호](https://hehesim.tistory.com/16)
 - [같은 숫자는 싫어](https://hehesim.tistory.com/12)
 - [소수 찾기](https://hehesim.tistory.com/9)
