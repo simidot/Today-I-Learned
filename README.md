@@ -72,6 +72,7 @@
 
 ## HTML/CSS
 - [Frontend 개요](https://hehesim.tistory.com/106)
+- [HTML 기초](https://hehesim.tistory.com/109)
 
 ## 마크다운
 - [마크다운](https://hehesim.tistory.com/76)
@@ -87,6 +88,7 @@
 - [정렬 알고리즘(선택/삽입/버블)](https://hehesim.tistory.com/10)
 - [스택/괄호검사/DFS/후위표기](https://hehesim.tistory.com/99)
 - [큐/LinkedLsit/BFS](https://hehesim.tistory.com/100)
+- [DFS와 BFS](https://hehesim.tistory.com/108)
 - [올바른 괄호](https://hehesim.tistory.com/16)
 - [같은 숫자는 싫어](https://hehesim.tistory.com/12)
 - [소수 찾기](https://hehesim.tistory.com/9)
