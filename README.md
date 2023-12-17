@@ -2,6 +2,7 @@
 
 ## Java
 - [자바 개요](https://hehesim.tistory.com/82)
+- [JShell](https://hehesim.tistory.com/113)
 - [변수와 자료형](https://hehesim.tistory.com/83)
 - [연산자](https://hehesim.tistory.com/84)
 - [조건문/반복문](https://hehesim.tistory.com/85)
@@ -73,6 +74,10 @@
 ## HTML/CSS
 - [Frontend 개요](https://hehesim.tistory.com/106)
 - [HTML 기초](https://hehesim.tistory.com/109)
+- [CSS 기초](https://hehesim.tistory.com/110)
+- [CSS Box Model](https://hehesim.tistory.com/114)
+- [CSS Flexbox](https://hehesim.tistory.com/115)
+- [Bootstrap](https://hehesim.tistory.com/116)
 
 ## 마크다운
 - [마크다운](https://hehesim.tistory.com/76)
@@ -89,6 +94,7 @@
 - [스택/괄호검사/DFS/후위표기](https://hehesim.tistory.com/99)
 - [큐/LinkedLsit/BFS](https://hehesim.tistory.com/100)
 - [DFS와 BFS](https://hehesim.tistory.com/108)
+- [Brute Force/순열/조합/멱집합](https://hehesim.tistory.com/117)
 - [올바른 괄호](https://hehesim.tistory.com/16)
 - [같은 숫자는 싫어](https://hehesim.tistory.com/12)
 - [소수 찾기](https://hehesim.tistory.com/9)
