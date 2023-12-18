@@ -52,8 +52,9 @@
 - [aws 기초지식](https://hehesim.tistory.com/46)
 - [asw를 사용하기 위한 도구](https://hehesim.tistory.com/48)
 
-## SQL
+## SQL/database
 - [DATABASE](https://hehesim.tistory.com/2)
+- [Database 기초](https://hehesim.tistory.com/118)
 - [ORACLE 셋업](https://hehesim.tistory.com/3)
 - [SQL*plus](https://hehesim.tistory.com/4)
 - [ORACLE 데이터베이스](https://hehesim.tistory.com/5)
