@@ -63,6 +63,7 @@
 - [단일 행 함수](https://hehesim.tistory.com/43)
 - [그룹함수](https://hehesim.tistory.com/44)
 - [정규화와 조인](https://hehesim.tistory.com/122)
+- [JDBC](https://hehesim.tistory.com/124)
 
 ## 타임리프 Thymeleaf
 - [타임리프 기초](https://hehesim.tistory.com/67)
