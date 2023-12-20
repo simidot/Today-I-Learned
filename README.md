@@ -15,7 +15,6 @@
 - [파일 입출력](https://hehesim.tistory.com/93)
 - [String/StringBuffer/StringBuilder](https://hehesim.tistory.com/96)
 - [이미지 업로드](https://hehesim.tistory.com/31)
-- [JDBC, DBCP](https://hehesim.tistory.com/27)
 - [MVC](https://hehesim.tistory.com/22)
 
 ## Network
@@ -63,6 +62,7 @@
 - [단일 행 함수](https://hehesim.tistory.com/43)
 - [그룹함수](https://hehesim.tistory.com/44)
 - [정규화와 조인](https://hehesim.tistory.com/122)
+- [JDBC, DBCP](https://hehesim.tistory.com/27)
 - [JDBC](https://hehesim.tistory.com/124)
 
 ## 타임리프 Thymeleaf
