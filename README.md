@@ -20,13 +20,15 @@
 ## Network
 - [인터넷 네트워크](https://hehesim.tistory.com/23)
 
-## Springboot
+## Springboot/Spring Framework
 - [REST API](https://hehesim.tistory.com/65)
 - [DI](https://hehesim.tistory.com/52)
 - [Factory를 통한 의존성 낮추기](https://hehesim.tistory.com/53)
 - [XML 기반 컨테이너 구성](https://hehesim.tistory.com/55)
 - [annotation 기반 컨테이너 구성](https://hehesim.tistory.com/56)
 - [component 의존성주입](https://hehesim.tistory.com/57)
+- [의존성 주입](https://hehesim.tistory.com/128)
+- [스프링빈 등록방법](https://hehesim.tistory.com/129)
 - [spring security 인증](https://hehesim.tistory.com/36)
 - [스프링부트 프로젝트 기본 구조](https://hehesim.tistory.com/20)
 
@@ -98,6 +100,7 @@
 - [큐/LinkedLsit/BFS](https://hehesim.tistory.com/100)
 - [DFS와 BFS](https://hehesim.tistory.com/108)
 - [Brute Force/순열/조합/멱집합](https://hehesim.tistory.com/117)
+- [다이나믹 프로그래밍](https://hehesim.tistory.com/130)
 - [올바른 괄호](https://hehesim.tistory.com/16)
 - [같은 숫자는 싫어](https://hehesim.tistory.com/12)
 - [소수 찾기](https://hehesim.tistory.com/9)
