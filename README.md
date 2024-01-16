@@ -19,6 +19,7 @@
 
 ## Network
 - [인터넷 네트워크](https://hehesim.tistory.com/23)
+- [TCP/IP & HTTP](https://hehesim.tistory.com/152)
 
 ## Springboot/Spring Framework
 - [REST API](https://hehesim.tistory.com/65)
@@ -31,9 +32,18 @@
 - [스프링빈 등록방법](https://hehesim.tistory.com/129)
 - [spring security 인증](https://hehesim.tistory.com/36)
 - [스프링부트 프로젝트 기본 구조](https://hehesim.tistory.com/20)
+- [스프링 어노테이션 정리](https://hehesim.tistory.com/135)
+- [스프링부트 기초/IoC](https://hehesim.tistory.com/136)
+- [Post/Redirect/Get](https://hehesim.tistory.com/138)
+- [Logging](https://hehesim.tistory.com/147)
+- [Spring Profiles](https://hehesim.tistory.com/148)
+- [HTTP 관련 핸들러메서드](https://hehesim.tistory.com/153)
 
 ## JSP
 - [JSP 기본용어](https://hehesim.tistory.com/17)
+
+## MyBatis
+- [MyBatis](https://hehesim.tistory.com/139)
 
 ## JPA
 - [JPA Entity](https://hehesim.tistory.com/60)
@@ -45,7 +55,7 @@
 - [순환참조 에러](https://hehesim.tistory.com/66)
 - [CRUD 실습](https://hehesim.tistory.com/64)
 - [오라클 시퀀스값 공유오류](https://hehesim.tistory.com/63)
-
+- [Spring Data JPA](https://hehesim.tistory.com/140)
 
 ## AWS
 - [aws s3 이미지업로드](https://hehesim.tistory.com/69)
@@ -69,12 +79,13 @@
 
 ## 타임리프 Thymeleaf
 - [타임리프 기초](https://hehesim.tistory.com/67)
+- [Spring MVC & Thymeleaf](https://hehesim.tistory.com/137)
 
 ## 자바스크립트 javascript
 - [런타임/비동기처리](https://hehesim.tistory.com/49)
 - [url에서 파라미터 추출](https://hehesim.tistory.com/39)
 - [자바스크립트 객체/Date 객체](https://hehesim.tistory.com/102)
-- [jQuery 기](https://hehesim.tistory.com/101)
+- [jQuery 기초](https://hehesim.tistory.com/101)
 
 ## HTML/CSS
 - [Frontend 개요](https://hehesim.tistory.com/106)
@@ -104,3 +115,10 @@
 - [올바른 괄호](https://hehesim.tistory.com/16)
 - [같은 숫자는 싫어](https://hehesim.tistory.com/12)
 - [소수 찾기](https://hehesim.tistory.com/9)
+- [멘토와 멘티](https://hehesim.tistory.com/127)
+- [다리놓기](https://hehesim.tistory.com/131)
+
+## 정보처리기사
+- [1과목 요구사항 확인 1](https://hehesim.tistory.com/151)
+- [1과목 요구사항 확인 2](https://hehesim.tistory.com/155)
+- [1과목 화면설계 1](https://hehesim.tistory.com/156)
