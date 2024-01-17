@@ -62,6 +62,11 @@
 - [클라우드&네트워크 이해](https://hehesim.tistory.com/45)
 - [aws 기초지식](https://hehesim.tistory.com/46)
 - [asw를 사용하기 위한 도구](https://hehesim.tistory.com/48)
+- [배포1 EC2생성과 가상컴퓨터 실행](https://hehesim.tistory.com/157)
+- [배포2 가상 컴퓨터에서 프로젝트 실행/EC2 보안설정](https://hehesim.tistory.com/158)
+- [배포3 Nginx 설정](https://hehesim.tistory.com/159)
+- [배포4 가비아 도메인설정](https://hehesim.tistory.com/160)
+- [배포5 HTTPS 적용하기](https://hehesim.tistory.com/161)
 
 ## SQL/database
 - [DATABASE](https://hehesim.tistory.com/2)
