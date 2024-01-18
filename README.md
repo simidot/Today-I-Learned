@@ -38,6 +38,7 @@
 - [Logging](https://hehesim.tistory.com/147)
 - [Spring Profiles](https://hehesim.tistory.com/148)
 - [HTTP 관련 핸들러메서드](https://hehesim.tistory.com/153)
+- [SpringBoot&REST](https://hehesim.tistory.com/163)
 
 ## JSP
 - [JSP 기본용어](https://hehesim.tistory.com/17)
@@ -127,3 +128,5 @@
 - [1과목 요구사항 확인 1](https://hehesim.tistory.com/151)
 - [1과목 요구사항 확인 2](https://hehesim.tistory.com/155)
 - [1과목 화면설계 1](https://hehesim.tistory.com/156)
+- [1과목 화면설계 2](https://hehesim.tistory.com/162)
+- [1과목 애플리케이션 설계 1](https://hehesim.tistory.com/164)
