@@ -131,3 +131,4 @@
 - [1과목 화면설계 2](https://hehesim.tistory.com/162)
 - [1과목 애플리케이션 설계 1](https://hehesim.tistory.com/164)
 - [1과목 애플리케이션 설계 2](https://hehesim.tistory.com/166)
+- [1과목 인터페이스 설계](https://hehesim.tistory.com/168)
