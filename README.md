@@ -39,6 +39,9 @@
 - [Spring Profiles](https://hehesim.tistory.com/148)
 - [HTTP 관련 핸들러메서드](https://hehesim.tistory.com/153)
 - [SpringBoot&REST](https://hehesim.tistory.com/163)
+- [Query Parameter](https://hehesim.tistory.com/169)
+- [파일 핸들링](https://hehesim.tistory.com/170)
+- 
 
 ## JSP
 - [JSP 기본용어](https://hehesim.tistory.com/17)
@@ -132,3 +135,4 @@
 - [1과목 애플리케이션 설계 1](https://hehesim.tistory.com/164)
 - [1과목 애플리케이션 설계 2](https://hehesim.tistory.com/166)
 - [1과목 인터페이스 설계](https://hehesim.tistory.com/168)
+- [2과목 입출력 구현](https://hehesim.tistory.com/171)
