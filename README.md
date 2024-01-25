@@ -41,7 +41,8 @@
 - [SpringBoot&REST](https://hehesim.tistory.com/163)
 - [Query Parameter](https://hehesim.tistory.com/169)
 - [파일 핸들링](https://hehesim.tistory.com/170)
-- 
+- [예외처리/유효성 검증](https://hehesim.tistory.com/172)
+- [테스트 코드](https://hehesim.tistory.com/178)
 
 ## JSP
 - [JSP 기본용어](https://hehesim.tistory.com/17)
@@ -136,3 +137,7 @@
 - [1과목 애플리케이션 설계 2](https://hehesim.tistory.com/166)
 - [1과목 인터페이스 설계](https://hehesim.tistory.com/168)
 - [2과목 입출력 구현](https://hehesim.tistory.com/171)
+- [2과목 통합 구현](https://hehesim.tistory.com/173)
+- [2과목 소프트웨어 패키징](https://hehesim.tistory.com/174)
+- [2과목 애플리케이션 테스트 관리](https://hehesim.tistory.com/179)
+- [2과목 인터페이스 구현](https://hehesim.tistory.com/180)
