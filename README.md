@@ -43,6 +43,9 @@
 - [파일 핸들링](https://hehesim.tistory.com/170)
 - [예외처리/유효성 검증](https://hehesim.tistory.com/172)
 - [테스트 코드](https://hehesim.tistory.com/178)
+- [Spring Security](https://hehesim.tistory.com/181)
+- [CustomUserDeatilsManager/CustomUserDetails](https://hehesim.tistory.com/182)
+- [Dispatcher Servlet](https://hehesim.tistory.com/183)
 
 ## JSP
 - [JSP 기본용어](https://hehesim.tistory.com/17)
