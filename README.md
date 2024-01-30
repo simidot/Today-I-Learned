@@ -46,6 +46,10 @@
 - [Spring Security](https://hehesim.tistory.com/181)
 - [CustomUserDeatilsManager/CustomUserDetails](https://hehesim.tistory.com/182)
 - [Dispatcher Servlet](https://hehesim.tistory.com/183)
+- [HandlerInterceptor, Filter, SecurityFilterChain](https://hehesim.tistory.com/184)
+- [JWT](https://hehesim.tistory.com/186)
+- [Authorization](https://hehesim.tistory.com/188)
+- [OAuth2 소셜로그인](https://hehesim.tistory.com/190)
 
 ## JSP
 - [JSP 기본용어](https://hehesim.tistory.com/17)
@@ -144,3 +148,6 @@
 - [2과목 소프트웨어 패키징](https://hehesim.tistory.com/174)
 - [2과목 애플리케이션 테스트 관리](https://hehesim.tistory.com/179)
 - [2과목 인터페이스 구현](https://hehesim.tistory.com/180)
+- [3과목 논리 데이터베이스 설계 1](https://hehesim.tistory.com/185)
+- [3과목 논리 데이터베이스 설계 2](https://hehesim.tistory.com/187)
+- [3과목 물리 데이터베이스 설계 1](https://hehesim.tistory.com/189)
