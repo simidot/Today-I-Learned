@@ -68,6 +68,10 @@
 - [CRUD 실습](https://hehesim.tistory.com/64)
 - [오라클 시퀀스값 공유오류](https://hehesim.tistory.com/63)
 - [Spring Data JPA](https://hehesim.tistory.com/140)
+- [MappedSuperclass/JpaAuditing](https://hehesim.tistory.com/192)
+- [N:M관계](https://hehesim.tistory.com/193)
+- [@Query](https://hehesim.tistory.com/194)
+- [Transactional](https://hehesim.tistory.com/195)
 
 ## AWS
 - [aws s3 이미지업로드](https://hehesim.tistory.com/69)
