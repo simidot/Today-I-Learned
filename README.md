@@ -72,6 +72,9 @@
 - [N:M관계](https://hehesim.tistory.com/193)
 - [@Query](https://hehesim.tistory.com/194)
 - [Transactional](https://hehesim.tistory.com/195)
+- [영속성 컨텍스트](https://hehesim.tistory.com/203)
+- [낙관적락/비관적락](https://hehesim.tistory.com/204)
+- [N+1문제](https://hehesim.tistory.com/205)
 
 ## AWS
 - [aws s3 이미지업로드](https://hehesim.tistory.com/69)
@@ -155,3 +158,9 @@
 - [3과목 논리 데이터베이스 설계 1](https://hehesim.tistory.com/185)
 - [3과목 논리 데이터베이스 설계 2](https://hehesim.tistory.com/187)
 - [3과목 물리 데이터베이스 설계 1](https://hehesim.tistory.com/189)
+- [3과목 물리 데이터베이스 설계 2](https://hehesim.tistory.com/197)
+- [3과목 SQL 응용](https://hehesim.tistory.com/198)
+- [3과목 SQL 활용](https://hehesim.tistory.com/199)
+- [3과목 데이터 전환](https://hehesim.tistory.com/200)
+- [4과목 서버 프로그램 구현](https://hehesim.tistory.com/201)
+- [4과목 프로그래밍 언어 활용](https://hehesim.tistory.com/202)
